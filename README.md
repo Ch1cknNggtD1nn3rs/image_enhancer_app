@@ -2,8 +2,7 @@
 Uses ESRGAN to enhance image quality. GUI built with customtkinter.
 
 ## Instructions
-1. Download 'models' folder from https://github.com/xinntao/ESRGAN
-and add them to your app folder.
+1. Download models folder from [https://github.com/xinntao/ESRGAN](https://drive.google.com/drive/u/0/folders/17VYV_SoZZesU6mbxz2dMAIccSSlqLecY)  and add them to your app folder.
 
 2. Download all dependencies from requirements.txt to a venv
 
