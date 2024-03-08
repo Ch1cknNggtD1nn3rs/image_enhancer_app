@@ -39,7 +39,7 @@ def run_app():
     model.eval()
     model = model.to(device)
 
-    print('Model path {:s}. \nTesting...'.format(model_path))
+    print('Model path {:s}. \nEnhancing...'.format(model_path))
 
     # Create the Results directory if it doesn't exist
     if not os.path.exists('results'):
